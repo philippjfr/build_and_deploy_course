@@ -1,2 +1,3 @@
-# build_and_deploy_course
+# Developing an Application with Panel and Anaconda Notebooks
+
 Materials for the "Developing an Application with Panel and Anaconda Notebooks" course
